@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-mongodb
+pymongo
+certifi
+faiss-cpu
+pypdf
+python-docx
+tiktoken
+python-dotenv
+voyageai
+googlesearch-python
